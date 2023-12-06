@@ -1,4 +1,6 @@
 # apnacollege-demo
+
 This is my first git repository
 <br/>
-<h3>Author is : kotesh Balabhadra</h3>
+
+<h3>Author is : kotesh </h3>
